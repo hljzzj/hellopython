@@ -7,4 +7,4 @@ print 'hello,world!'
 a = (1+2+3+4)*8
 b = a*a
 print a,b
-print b/a*2*3
+print b/a*2*31
